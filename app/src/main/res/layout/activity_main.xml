@@ -8,6 +8,10 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="25dp" />
+
     <TextView
         android:id="@+id/lblName"
         android:layout_width="wrap_content"

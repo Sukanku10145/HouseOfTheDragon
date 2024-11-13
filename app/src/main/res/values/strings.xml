@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">HouseOfTheDragon</string>
     <string name="name">Bienvenido sir, con quién tengo el placer de conversar?</string>
-    <string name="answer">Responder</string>
+    <string name="answer">RESPONDER</string>
     <string name="greeting">Sir %s, es el momento de que tomes una difícil elección...</string>
+    <string name="explicacion">El rey Viserys ha muerto... Debes elegir a su sucesor como rey de los Ándalos y de los Primeros Hombres, Señor de los Siete Reinos y Protector del Reino. Para ello debes decidir entre apoyar a...</string>
+    <string name="eleccion">Si no tomas una decisión no podrás salir de esta encrucijada.</string>
+    <string name="Rhaenyra">Rhaenyra Targaryen</string>
+    <string name="Aegon">Aegon Targaryen</string>
+    <string name="elegir">HINCAR LA RODILLA</string>
+    <string name="fin">Has elegido a %s</string>
+    <string name="salir">SALIR</string>
 </resources>
